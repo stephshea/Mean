@@ -1,0 +1,26 @@
+How does MEAN connect with MVC
+Create a text file and write up how you feel the pieces in MEAN connect with the concept of MVC we will discuss tomorrow the connections.
+
+The pieces in MEAN are using to carry out each MVC component, combining client-side and server-side operations to create powerful applications. 
+
+
+M Model - database (Mongo)
+V View - front-end (Angualr.js, Node.js)
+C Controller - backend (Express.js, Node.js) 
+
+MEAN
+Mongo
+Express.js
+Angular.js
+Node.js
+
+-------------------------------------
+NOTES
+MVC way of organizing full stack. URL does not access database directly. User is not cut off but doesn't have direct access.
+
+Model View Controller >>user>>browser(table)>>view(finished display)>>controller(cook)>>model(ingredients, database)
+
+standard request -- user asks for file; browser displays file
+
+only controller communicates with model but model data is filter and sent by controller -- data in databse that user can never access -- no direct access, only thru controller -- the moodel no front public access
+
