@@ -5,7 +5,7 @@ The pieces in MEAN are using to carry out each MVC component, combining client-s
 
 
 M Model - database (Mongo)
-V View - front-end (Angualr.js, Node.js)
+V View - front-end (Angualr.js)
 C Controller - backend (Express.js, Node.js) 
 
 MEAN
